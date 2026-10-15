@@ -11,4 +11,4 @@ This is a static HTML site. Import the repository into Vercel and use:
 - Output directory: `.`
 - Install command: leave empty
 
-Vercel will serve `index.html` from the repository root. After choosing a custom domain, add that canonical URL and publish a sitemap for the live site.
+Vercel serves `index.html` from the repository root. The production URL is `https://faizan-memon-portfolio.vercel.app/`; `robots.txt` and `sitemap.xml` are configured for it.
